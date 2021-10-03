@@ -92,6 +92,7 @@ margin-right: 100px;;
     font-weight: bold;
     background-color: rgba(231, 14, 14, 0.582);
     color: white;
+    cursor: pointer;
 
 }
 #buttonone:hover {
